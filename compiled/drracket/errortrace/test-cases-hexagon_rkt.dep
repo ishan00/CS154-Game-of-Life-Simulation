@@ -1,0 +1,1 @@
+("6.9" ("06b0cf1ca54a51ef37ba3196b85d0ae361769d54" . "948fa9a4bb08713b077a705246d42d15a64e10c7") #"/home/ishan/Downloads/CS project/main.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
